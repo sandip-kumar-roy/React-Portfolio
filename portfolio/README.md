@@ -1,9 +1,18 @@
 # Getting Started with Create React App
-
+click on the link to view the website  [LIVE LINK](https://scintillating-biscuit-5b1157.netlify.app/#popup)
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+# `STEPS TO RUN THE CODE`
+
+### `npx create-react-app app_name    Or  npm i create-react-app
+we use npx becaz it downloads all the node modules inside ur current react folder instead of using ur global space
+but if u want it to be installed globally then use npm
+
+### `Go to app directory
+   cd app_name
 
 ### `npm start`
 
@@ -67,3 +76,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Enjoy ScreenShots of my react portfolio
