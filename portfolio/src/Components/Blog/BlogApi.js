@@ -1,0 +1,36 @@
+const BlogApi = [
+    {
+      id: 1,
+      image: "https://i.ibb.co/LSqcSqx/image.png",
+      date: "2 May, 2021",
+      title_one: "Machine Learning Blog.",
+      desc_one: "Machine Learning is the field of study that gives computers the capability to learn without being explicitly programmed. ML is one of the most exciting technologies that one would have ever come across. As it is evident from the name, it gives the computer that makes it more similar to humans: The ability to learn. Machine learning is actively being used today, perhaps in many more places than one would expect.",
+      title_two: "Is Python a good language of choice for Machine Learning/AI?",
+      desc_two: "Familiarity and moderate expertise in at least one high-level programming language is useful for beginners in machine learning. Unless you are a Ph.D. researcher working on a purely theoretical proof of some complex algorithm, you are expected to mostly use the existing machine learning algorithms and apply them in solving novel problems. This requires you to put on a programming hat.There’s a lot of debate on the ‘best language for data science’ (in fact, here’s a take on why data scientists should learn Swift).While the debate rages on, grab a coffee and read this insightful article to get an idea and see your choices. Or, check out this post on KDnuggets. For now, it’s widely believed that Python helps developers to be more productive from development to deployment and maintenance. Python’s syntax is simpler and of a higher level when compared to Java, C, and C++. It has a vibrant community, open-source culture, hundreds of high-quality libraries focused on machine learning, and a huge support base from big names in the industry (e.g. Google, Dropbox, Airbnb, etc.)",
+      title_three: "Fundamental Libraries to know and master",
+      desc_three: "==Numpy== Short for Numerical Python, NumPy is the fundamental package required for high performance scientific computing and data analysis in the Python ecosystem. It’s the foundation on which nearly all of the higher-level tools such as Pandas and scikit-learn are built. ==Pandas==This is the most popular library in the scientific Python ecosystem for doing general-purpose data analysis. Pandas is built upon Numpy array thereby preserving the feature of fast execution speed and offering many ==Matplotlib and Seaborn== Data visualization and storytelling with your data are essential skills that every data scientist needs to communicate insights gained from analyses effectively to any audience out there.",
+    },
+    {
+      id: 2,
+      image: "https://i.ibb.co/NmBz5Wm/image.png",
+      date: "28 April, 2021",
+      title_one: "Cloud Computing ",
+      desc_one: "it's somewhere at the other end of your internet connection – a place where you can access apps and services, and where your data can be stored securely. The cloud is a big deal for three reasons:It doesn't need any effort on your part to maintain or manage it.It's effectively infinite in size, so you don't need to worry about it running out of capacity.You can access cloud-based applications and services from anywhere – all you need is a device with an internet connection.",
+      title_two: "Value proposition",
+      desc_two: "Advocates of public and hybrid clouds claim that cloud computing allows companies to avoid or minimize up-front IT infrastructure costs. Proponents also claim that cloud computing allows enterprises to get their applications up and running faster, with improved manageability and less maintenance, and that it enables IT teams to more rapidly adjust resources to meet fluctuating and unpredictable demand,[4][5][6] providing burst computing capability: high computing power at certain periods of peak demand.[7]",
+      title_three: "Characteristics",
+      desc_three: "Cost reductions are claimed by cloud providers. A public-cloud delivery model converts capital expenditures (e.g., buying servers) to operational expenditure,Device and location independence Maintenance of cloud environment is easier because the data is hosted on an outside server maintained by a provider without the need to invest in data center hardware.Performance is monitored by IT experts from the service provider, and consistent and loosely coupled architectures are constructed using web services as the system interface Security can improve due to centralization of data, increased security-focused resources, etc., ",
+    },
+    {
+      id: 3,
+      image: "https://i.ibb.co/nLTwQjQ/image.png",
+      date: "20 Jun, 2021",
+      title_one: "Best Practices In React 2022",
+      desc_one: "React’s main goal is to be simple, declarative, and compassable, as it is intended to ease the process of building large applications using data that changes over time.",
+      title_two: "AJAX Requests",
+      desc_two: "React by default doesn’t provide a helper method to manage AJAX requests, but you can use any other third party JavaScript library—like jQuery or Zepto—to make necessary AJAX requests.Below is a sample code snippet that performs an AJAX request on props.url and on success sets the data state. In case of  an error, it just uses console.error to report the error. Note: Make sure that the execution context (this) is bound to the success and error callbacks",
+      title_three: "Styling Your Components",
+      desc_three: "In React, styles are mentioned in line, but unlike the traditional way of inline CSS strings, here we specify each style as an object whose key is the camelCased version of the style name, and whose value is the style's value (usually a string Most numeric values at the end of a style prop receive an automatic “px” specification added to them (e.g., “width: 10” is read as “width: 10px”). Here is a list of properties that won't get the automatic suffix: boxFlexboxFlexGroup  columnCountfillOpacity flex flexGrow flexPositive flexShrink  flexNegative",
+    },
+  ]
+  export default BlogApi
