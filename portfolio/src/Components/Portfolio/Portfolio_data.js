@@ -47,7 +47,7 @@ const Portfolio_data = [
       image: "https://i.ibb.co/wSKPbQZ/image.png",
       link1: "https://i.ibb.co/sVtnhWn/image.png",
       desc1: "It is suitable for both JOB SEEKER and JOB POSTER(RECRUITER) where one can either search for job related posting and one can put new job openings .A search option is also provided which enhance the user interaction instead of scrolling down they can type their required jobs too search",
-      link2: "https://github.com/sandip-kumar-roy",
+      link2: "https://github.com/sandip-kumar-roy/Enterprise-Inventory-system",
     },
     {
       id: 6,
