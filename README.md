@@ -1,7 +1,7 @@
 # React-Portfolio
 Portfolio using React 
 # Getting Started with Create React App
-click on the link to view the website  [LIVE LINK](https://scintillating-biscuit-5b1157.netlify.app/#popup)
+click on the link to view the website  [LIVE LINK](https://sandipkumarroy.netlify.app)
 
 ## Available Scripts
 
